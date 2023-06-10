@@ -6,7 +6,7 @@
             this.hours = hours;
         }    
     }
-let game = new Games('MHw',7);
+let game = new Games('MHW',7);
 console.log(game);
 
 
