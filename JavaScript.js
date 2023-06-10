@@ -6,8 +6,8 @@
             this.hours = hours;
         }    
     }
-let game = new Games('MHW',7);
-console.log(game);
-
-
+let MHW = new Games('MHW',7);
+console.log(MHW);
+let DarkSouls2 = new Games("Dark Souls II",891)
+console.log(DarkSouls2);
 })(); 
