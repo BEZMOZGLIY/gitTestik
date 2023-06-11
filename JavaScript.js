@@ -10,4 +10,6 @@ let MHW = new Games('MHW',7);
 console.log(MHW);
 let DarkSouls2 = new Games("Dark Souls II",891)
 console.log(DarkSouls2);
+let DarkSouls3 = new Games("Dark Souls III",1000);
+console.log(DarkSouls3);
 })(); 
